@@ -8,7 +8,7 @@ library(mgcv)
 library(survey)
 
 
-setwd('/Users/Muna/Desktop/UMich/EHS675 Env Epid/project')
+setwd('/Users/Desktop/Env Epid/project')
 knh<-read.xport("knh.xport")
 getwd()
 names(knh)
